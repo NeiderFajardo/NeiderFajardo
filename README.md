@@ -1,5 +1,6 @@
 <!-- Markdown -->
-### ¡Hola! 👾
+### [![Typing SVG](https://readme-typing-svg.herokuapp.com/?lines=!Hola¡)](https://git.io/typing-svg) 
+
 Soy ingeniero de sistemas, desarrollador FullStack 💻
 Trabajo actualmente desde Casa. 🏡
 
@@ -10,6 +11,7 @@ Actualmente trabajo bastante con   <img src="https://upload.wikimedia.org/wikipe
 
 Estoy aprendiendo sobre Kubernetes, Golang, gRPC y MongoDB.
 
+## [![Typing SVG](https://readme-typing-svg.herokuapp.com/?lines=Vamos+a+aprender+algo+nuevo!!!)](https://git.io/typing-svg)
 
 ![Jokes Card](https://readme-jokes.vercel.app/api)
 
