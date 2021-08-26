@@ -13,5 +13,6 @@ Estoy aprendiendo sobre Kubernetes, Golang, gRPC y MongoDB.
 
 ## [![Typing SVG](https://readme-typing-svg.herokuapp.com/?lines=Vamos+a+aprender+algo+nuevo!!!)](https://git.io/typing-svg)
 
+Chiste Random :v
 ![Jokes Card](https://readme-jokes.vercel.app/api)
 
