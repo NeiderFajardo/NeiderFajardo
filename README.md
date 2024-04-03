@@ -1,8 +1,9 @@
 <!-- Markdown -->
-### [![Typing SVG](https://readme-typing-svg.herokuapp.com/?lines=!Hola¡)](https://git.io/typing-svg) 
+## Neider Alejandro Fajardo
 
-Soy ingeniero de sistemas, desarrollador FullStack 💻
+### Ingeniero de sistemas(o de Software 😅) | Desarrollador FullStack💻 en Siigo Sas.
 Trabajo actualmente desde Casa. 🏡
+Me gradue de la Universidad Distrital Francisco José de Caldas.
 
 Me apasiona resolver problemas optimizando el uso de recursos siempre que sea posible. Me gustan las soluciones simples y eficientes, que se puedan escalar, extender y reutilizar facilmente. Disfruto de enfrentarme a retos que impliquen pensar en soluciones así y aprender siempre de eso.
 Creo firmemente que la única forma de aprender es poniendo en práctica cada concepto.
